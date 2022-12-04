@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Liang Wang 吳恩達
 
 # Full name (for SEO)
 first_name: Alice
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mingde Zhou a Ph.D. candidate at Power Electronics and Renewable Energies Laboratory (PEARL), Shanghaitech University. His research advisor is Prof. Haoyu Wang. With the vision of building power internet with electric vehicles, his research focused on designing high-efficiency converters for electric vehicles (EVs) with compact size.
 {style="text-align: justify;"}
