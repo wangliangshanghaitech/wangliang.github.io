@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Liang Wang 吳恩達
+title: Liang Wang 王良
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Liang
+last_name: Wang
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ShanghaiTech University
+    url: https://www.shanghaitech.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -33,12 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD in Electrical Enginnering
+      institution: Shanghaitech University
+      year: 2019
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
